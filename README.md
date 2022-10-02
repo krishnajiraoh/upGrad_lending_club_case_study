@@ -3,10 +3,8 @@
 
 ## Univaritate analysis:
 - "int_rate" on "Charged Off" vs "Fully Paid" has significant difference
-- "annual_income" 
-
-## Bivariate analysis:
-The following columns have significant difference on loan_status
+- "annual_income" on both median and mean
+- "loan_amnt" - 10% difference
 - "purpose"
 - "home_ownership"
 - "grade"
@@ -16,3 +14,10 @@ The following columns have significant difference on loan_status
 
 Expected significant but not quite:
 - "verification_status"
+
+## Bivariate analysis:
+
+
+## Derived metrics:
+
+
