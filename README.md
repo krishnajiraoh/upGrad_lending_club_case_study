@@ -3,6 +3,7 @@
 
 ## Univaritate analysis:
 - "int_rate" on "Charged Off" vs "Fully Paid" has significant difference
+- "annual_income" 
 
 ## Bivariate analysis:
 The following columns have significant difference on loan_status
