@@ -5,6 +5,8 @@
 - "int_rate" on "Charged Off" vs "Fully Paid" has significant difference
 - "annual_income" on both median and mean
 - "loan_amnt" - 10% difference
+- "total_rec_late_fee" - difference in mean only
+- "revol_util"
 - "purpose"
 - "home_ownership"
 - "grade"
@@ -19,5 +21,10 @@ Expected significant but not quite:
 
 
 ## Derived metrics:
+- emi_burden : annual_inc / installment
+- inc_loan_ration : annual_inc / loan_amnt - significant only in mean
 
-
+## to=do
+- outlier analysis
+- analysis with dates
+- presentation
