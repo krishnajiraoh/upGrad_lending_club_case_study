@@ -24,7 +24,7 @@ Expected significant but not quite:
 - emi_burden : annual_inc / installment
 - inc_loan_ration : annual_inc / loan_amnt - significant only in mean
 
-## to=do
+## to-do
 - outlier analysis
 - analysis with dates
 - presentation
