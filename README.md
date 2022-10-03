@@ -27,4 +27,5 @@ Expected significant but not quite:
 ## to-do
 - outlier analysis
 - analysis with dates
+- custom functions if needed
 - presentation
