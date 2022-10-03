@@ -22,9 +22,10 @@ Expected significant but not quite:
 
 ## Derived metrics:
 - emi_burden : annual_inc / installment
-- inc_loan_ration : annual_inc / loan_amnt - significant only in mean
+- inc_loan_ratio : annual_inc / loan_amnt - significant only in mean
 
 ## to-do
+- filter only charged_off, fully-paid rows
 - outlier analysis
 - analysis with dates
 - custom functions if needed
