@@ -25,7 +25,7 @@
 4. More than 40% of loans in sub_grade “F5” & “G5” end up defaulting
 5. Fully paid loans have much higher emi_burden values than that of defaults 
 
-## Recommendations:
+## Recommendations
 1. For the state “WY”,  and a threshold of 10%,
     - Acceptable “loan_amnt” = 10375 + 10% of 10375
 2. The "int_rate" for the state "WY" is recommeded to be not more than "12.61%"
@@ -39,7 +39,7 @@
 
 
 ## Contact
-Created by [@krishnajiraoh] - feel free to contact me!
+Created by @krishnajiraoh - feel free to contact me!
 
 
 <!-- Optional -->
