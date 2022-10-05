@@ -19,7 +19,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-1. At least 1 out of 4 loans (25%) in “60 months” term end up defaulting
+1. “term” is a strong driver variable of default
+    - At least 1 out of 4 loans (25%) in “60 months” term end up defaulting
 2. At least 1 out of 4 loans (>25%) in “small business” end up defaulting
 3. More than 30% of loans in grade G & F end up defaulting
 4. More than 40% of loans in sub_grade “F5” & “G5” end up defaulting
