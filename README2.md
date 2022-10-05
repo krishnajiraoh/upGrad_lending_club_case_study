@@ -27,13 +27,11 @@
     - Ex: More than 30% of loans in grade G & F end up defaulting
 4. “sub_grade” is a strong variable of default
     - More than 40% of loans in sub_grade “F5” & “G5” end up defaulting
-5. Fully paid loans have much higher emi_burden values than that of defaults 
+5. “addr_state” is a strong variable of default
+    - Ex: more than 20% of loans in addr_state “NV” & “AK” end up defaulting
+6. Fully paid loans have much higher emi_burden values than that of defaults 
     - The medians of the calculated emi_burden are ”173” & “205” for “Charged Off & “Fully Paid” respectively.
-
-## Recommendations
-1. For the state “WY”,  and a threshold of 10%,
-    - Acceptable “loan_amnt” = 10375 + 10% of 10375
-2. The "int_rate" for the state "WY" is recommeded to be not more than "12.61%"
+7. Defaulters have significantly higher “loan_amnt” for “purpose” – “small_business”, “credit_card”, “renewable_energy” categories
 
 ## Technologies Used
 - pandas - version 1.5.0
