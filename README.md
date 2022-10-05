@@ -42,6 +42,7 @@ Dataset:
     - Defined as the ratio of “annual_inc” to “installment”
     - The medians of the calculated emi_burden are ”173” & “205” for “Charged Off & “Fully Paid” respectively.
 7. Defaulters have significantly higher “loan_amnt” for “purpose” – “small_business”, “credit_card”, “renewable_energy” categories
+8. Among loans in grade “G”, “defaulters” have significantly lesser “annual_inc” compared to the ones who have “Fully Paid”
 
 ## Technologies Used
 - pandas - version 1.5.0
