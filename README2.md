@@ -19,31 +19,27 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-1. At least 1 out of 4 loans (25%) in “60 months” end up defaulting![image](https://user-images.githubusercontent.com/10133554/194046929-eeffe528-8014-4f7b-82c1-27ad262dc95f.png)
+1. At least 1 out of 4 loans (25%) in “60 months” term end up defaulting
+2. At least 1 out of 4 loans (>25%) in “small business” end up defaulting
+3. More than 30% of loans in grade G & F end up defaulting
+4. More than 40% of loans in sub_grade “F5” & “G5” end up defaulting
+5. Fully paid loans have much higher emi_burden values than that of defaults 
 
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+## Recommendations:
+1. For the state “WY”,  and a threshold of 10%,
+    - Acceptable “loan_amnt” = 10375 + 10% of 10375
+2. The "int_rate" for the state "WY" is recommeded to be not more than "12.61%"
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas - version 1.5.0
+- numpy - version 1.21.0
+- seaborn - version 0.12.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@krishnajiraoh] - feel free to contact me!
 
 
 <!-- Optional -->
