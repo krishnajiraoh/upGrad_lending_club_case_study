@@ -19,7 +19,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
+1. At least 1 out of 4 loans (25%) in “60 months” end up defaulting![image](https://user-images.githubusercontent.com/10133554/194046929-eeffe528-8014-4f7b-82c1-27ad262dc95f.png)
+
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
