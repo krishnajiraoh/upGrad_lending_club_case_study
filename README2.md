@@ -21,10 +21,14 @@
 ## Conclusions
 1. “term” is a strong driver variable of default
     - At least 1 out of 4 loans (25%) in “60 months” term end up defaulting
-2. At least 1 out of 4 loans (>25%) in “small business” end up defaulting
-3. More than 30% of loans in grade G & F end up defaulting
-4. More than 40% of loans in sub_grade “F5” & “G5” end up defaulting
+2. “purpose” is a strong driver variable of default
+    - Ex: at least 1 out of 4 loans (>25%) in “small business” end up defaulting
+3. “grade” is a strong driver variable of default
+    - Ex: More than 30% of loans in grade G & F end up defaulting
+4. “sub_grade” is a strong variable of default
+    - More than 40% of loans in sub_grade “F5” & “G5” end up defaulting
 5. Fully paid loans have much higher emi_burden values than that of defaults 
+    - The medians of the calculated emi_burden are ”173” & “205” for “Charged Off & “Fully Paid” respectively.
 
 ## Recommendations
 1. For the state “WY”,  and a threshold of 10%,
