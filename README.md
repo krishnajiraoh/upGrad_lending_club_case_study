@@ -15,7 +15,7 @@ The project aims to analyse the past data of a lending company, to draw meaningf
 The project is for a consumer finance company which specialises in lending various types of loans to urban customers. In this project, will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 Background:
-The company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
+- The company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
 
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
 
