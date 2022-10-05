@@ -1,5 +1,5 @@
 # Lending Club Case Study
-The project aims to aims to analyse the past data of a lending company, to draw meaningful insights which would help to manage its portfolio better and thereby improving its overall revenue.
+The project aims to analyse the past data of a lending company, to draw meaningful insights which would help to manage its portfolio better and thereby improving its overall revenue.
 
 
 ## Table of Contents
